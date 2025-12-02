@@ -2,7 +2,7 @@
 Everything has been moved here: https://framagit.org/Lapineige/Blender_add-ons
 
 -----
-
+.
 Blender_add-ons
 ===============
 [English version]
